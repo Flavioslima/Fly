@@ -8,7 +8,7 @@ Novo servidor\n •••••••••••••••••••••�
 \n   ======================\n
 USUÁRIO E SENHA \n
 Me chama 2197708--4116 \n 👍🏻….",
-  "UrlUpdate": "https://justpaste.it/g125x",
+  "UrlUpdate": "https://raw.githubusercontent.com/Flavioslima/Fly/refs/heads/main/T",
   "Sms": "https://bitbin.it/l1kphmPe/raw/",
   "EmailFeedback": "",
   "UrlContato": "https://wa.me/+5521980584128?text=Ola%20Flavio%20VPN%20!!!",
