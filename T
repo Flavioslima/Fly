@@ -1,6 +1,5 @@
-#Vz4X23i/[*#J{tfW~2X!F]
 {
-"Version": "2.0.0.",
+"Version": "1.0.22.",
 "ReleaseNotes": "Hi\n🄰🅃🅄🄰🄻🄸🅉🄰🄲🄰🄾\n
 \n ATENÇÃO  ..\n
 \n👼\n
@@ -9,7 +8,7 @@ Novo servidor\n •••••••••••••••••••••�
 \n   ======================\n
 USUÁRIO E SENHA \n
 Me chama 2197708--4116 \n 👍🏻….",
-  "UrlUpdate": "https://raw.githubusercontent.com/Flavioslima/Fly/refs/heads/main/T",
+  "UrlUpdate": "https://justpaste.it/g125x",
   "Sms": "https://bitbin.it/l1kphmPe/raw/",
   "EmailFeedback": "",
   "UrlContato": "https://wa.me/+5521980584128?text=Ola%20Flavio%20VPN%20!!!",
@@ -17,96 +16,50 @@ Me chama 2197708--4116 \n 👍🏻….",
   "CheckUser": "true",
   "UdpPort": "1194,65535;7300;7313;7390;7385;7200;7290;7295;7100;7500;7600;7700;7800;7900",
   "Servers":[
-  {
-            "Name": "SSHT ON ",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "premium2.sshtproject.com",
-            "CheckUser": "premium3.sshtproject.com",
-            "ServerPort": "22",
-            "SSLPort": "443",
-            "USER": "cpnzj",
-            "PASS": "hrjzg"
-        },
-  
-        {
-      "Name": "CLICK 01 ON",
+{
+      "Name": "PABLO 01 ON",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "br.clickhost.xyz",
       "CheckUser": "",
       "ServerPort": "80",
       "SSLPort": "443",
-      "USER": "TgIGX",
-      "PASS": "57566102"
+      "USER": "YxYYu",
+      "PASS": "010588"
        },
       {
-            "Name": "CLICK 02 ON",
+            "Name": "PABLO 02 ON",
             "TYPE": "PREMIUM",
             "FLAG": "br.png",
             "ServerIP": "br.clickhost.xyz",
             "CheckUser": "",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "cxYi2",
-            "PASS": "8094"
+            "USER": "9QFg7",
+            "PASS": "0434"
            },
            {
-      "Name": "✰ Ŧlคvเ๏ Br2 ON",
-      "TYPE": "PREMIUM",
+      "Name": "✰ Ŧlคvเ๏ Br1 ON",
+      "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "bra2.hackkcah.uk",
+      "ServerIP": "bra.hackkcah.uk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Flavioslima111",
+      "USER": "pablo007",
       "PASS": "1234567"
        },
        {
-      "Name": "US Բℓα√iѳ ON",
-      "TYPE": "PREMIUM",
-      "FLAG": "us.png",
-      "ServerIP": "usa.hackkcah.uk",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "Flavioslima1234",
-      "PASS": "123456"
-       },
-       {
-        #opentunnel.net
-            "Name": "ATE 23-03🔥",
+            "Name": "ATE 28-03🔥",
             "TYPE": "free",
             "FLAG": "us.png",
-            "ServerIP": "uss-3.optnl.com",
+            "ServerIP": "uss-4.optnl.com",
             "CheckUser": "",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "opentunnel.net-flavioslima222",
-            "PASS": "1254434645"
-        },       
-       {
-      "Name": "US ate 20/03 ON",
-      "TYPE": "PREMIUM",
-      "FLAG": "us.png",
-      "ServerIP": "uss-3.optnl.com",
-      "CheckUser": "",
-      "ServerPort": "80",
-      "SSLPort": "443",
-      "USER": "opentunnel.net-flavioslima1105",
-      "PASS": "ffy5675"
-       },
-       {
-            "Name": " SSH STORESSS 19/03",
-            "TYPE": "PREMIUM",
-            "FLAG": "us.png",
-            "ServerIP": "us3.tun1.pro",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "sshstores-misterf",
-            "PASS": "123456"
-          },
+            "USER": "opentunnel.net-misterf33",
+            "PASS": "12345678"
+        },           
           {
             "Name": "RICK ON",
             "TYPE": "PREMIUM",
@@ -161,7 +114,7 @@ Me chama 2197708--4116 \n 👍🏻….",
             "Info": "Proxy"
         },
         {
-      "Name": "TIM  ON 19/03/25",
+      "Name": "TIM  ON 23/03/25",
       "FLAG": "tim",
       "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
