@@ -1,14 +1,14 @@
 {
-"Version": "1.0.22.",
+"Version": "1.0.1.",
 "ReleaseNotes": "Hi\n🄰🅃🅄🄰🄻🄸🅉🄰🄲🄰🄾\n
 \n ATENÇÃO  ..\n
 \n👼\n
 Novo servidor\n ••••••••••••••••••••••••••••••••••••\ \n•••••••••••••••••••••••••••••••••••••\n🔵 TIM 🔴 CLARO OFF 🟣 VIVO 🟠 Oi\n=======================\n🗣️ SO ATUALIZAR 
-\nFLAVINHO🤩
+\nFLY LIMA
 \n   ======================\n
 USUÁRIO E SENHA \n
 Me chama 2197708--4116 \n 👍🏻….",
-  "UrlUpdate": "https://raw.githubusercontent.com/Flavioslima/Fly/refs/heads/main/T",
+  "UrlUpdate": "https://justpaste.it/g125x",
   "Sms": "https://bitbin.it/l1kphmPe/raw/",
   "EmailFeedback": "",
   "UrlContato": "https://wa.me/+5521980584128?text=Ola%20Flavio%20VPN%20!!!",
@@ -16,31 +16,53 @@ Me chama 2197708--4116 \n 👍🏻….",
   "CheckUser": "true",
   "UdpPort": "1194,65535;7300;7313;7390;7385;7200;7290;7295;7100;7500;7600;7700;7800;7900",
   "Servers":[
+  {
+            "Name": "SSHT ON ",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "premium1.sshtproject.com",
+            "CheckUser": "premium3.sshtproject.com",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "g9gyo",
+            "PASS": "gorlq"
+        },
 {
-      "Name": "PABLO 01 ON",
+      "Name": "CLICK 01 22/04",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "br.clickhost.xyz",
       "CheckUser": "",
       "ServerPort": "80",
       "SSLPort": "443",
-      "USER": "YxYYu",
-      "PASS": "010588"
+      "USER": "6tNGsGc",
+      "PASS": "2310193"
        },
       {
-            "Name": "PABLO 02 ON",
+            "Name": "CLICK 02 ON 22/04",
             "TYPE": "PREMIUM",
             "FLAG": "br.png",
             "ServerIP": "br.clickhost.xyz",
             "CheckUser": "",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "9QFg7",
-            "PASS": "0434"
+            "USER": "z01Ch",
+            "PASS": "89510"
            },
            {
-      "Name": "✰ Ŧlคvเ๏ Br1 ON",
-      "TYPE": "free",
+      "Name": "✰ JULIA Br2 ON 🔥",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "bra.hackkcah.uk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Jujubarroslima",
+      "PASS": "12345678"
+       },
+       {
+      "Name": "✰ Ŧlคvเ๏ Pablo ON",
+      "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "bra.hackkcah.uk",
       "CheckUser": "",
@@ -48,19 +70,74 @@ Me chama 2197708--4116 \n 👍🏻….",
       "SSLPort": "443",
       "USER": "pablo007",
       "PASS": "1234567"
+       },  
+           {
+      "Name": "✰ JULIA US ON 🔥",
+      "TYPE": "free",
+      "FLAG": "fly.png",
+      "ServerIP": "usa.hackkcah.uk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Anajuliab2",
+      "PASS": "12345678"
        },
        {
-            "Name": "ATE 28-03🔥",
-            "TYPE": "free",
-            "FLAG": "us.png",
-            "ServerIP": "uss-4.optnl.com",
+      "Name": " Բℓα√iѳ ON 🔥",
+      "TYPE": "PREMIUM",
+      "FLAG": "uk.png",
+      "ServerIP": "aus.hackkcah.uk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "flyfly",
+      "PASS": "123456"
+       },
+       {
+      "Name": "US Բℓα√iѳ;21/04 ON",
+      "TYPE": "PREMIUM",
+      "FLAG": "us.png",
+      "ServerIP": "uss-3.optnl.com",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "opentunnel.net-flavioslimaaa",
+      "PASS": "123456"
+       },
+                  {
+      "Name": "✰ Ŧlคvเ๏ CA 21/04 ON 🔥",
+      "TYPE": "PREMIUM",
+      "FLAG": "ca.png",
+      "ServerIP": "cas-1.optnl.com",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "opentunnel.net-flavioslima1105",
+      "PASS": "123456"
+       },
+       {
+            "Name": "RICK PREMIUM",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "vip.vuk62.shop",
+            "CheckUser": "http://painel.gestoradmbr.shop/checkuser/conecta4g.php",
+            "ServerPort": "22",
+            "SSLPort": "444",
+            "USER": "PREMIUM",
+            "PASS": "102030"
+        },
+        {
+            "Name": "RICK-BRASIL",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "cloudfree.tools-br.shop",
             "CheckUser": "",
-            "ServerPort": "80",
+            "ServerPort": "22",
             "SSLPort": "443",
-            "USER": "opentunnel.net-misterf33",
-            "PASS": "12345678"
-        },           
-          {
+            "USER": "CLOUDFREE",
+            "PASS": "CLOUDFREE"
+        },
+       {
             "Name": "RICK ON",
             "TYPE": "PREMIUM",
             "FLAG": "br.png",
@@ -71,6 +148,50 @@ Me chama 2197708--4116 \n 👍🏻….",
             "USER": "CLOUD",
             "PASS": "102030"
            },
+       {
+      "Name": "✰ Ŧlคvเ๏ Br1 Pablo off",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "bra.hackkcah.uk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "pablo007",
+      "PASS": "1234567"
+       },
+       {
+      "Name": "✰ JULIA Br2 OFF",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "bra2.hackkcah.uk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Flavioslima111",
+      "PASS": "1234567"
+       },
+       {
+      "Name": "US ate 07/04 ON",
+      "TYPE": "PREMIUM",
+      "FLAG": "us.png",
+      "ServerIP": "uss-4.optnl.com",
+      "CheckUser": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "opentunnel.net-misterffff",
+      "PASS": "123456"
+       },
+       {
+            "Name": " SSH STORESSS 19/03",
+            "TYPE": "PREMIUM",
+            "FLAG": "us.png",
+            "ServerIP": "us3.tun1.pro",
+            "CheckUser": "",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "sshstores-misterf",
+            "PASS": "123456"
+          },
      ],
      "Networks": [
 {
@@ -94,15 +215,25 @@ Me chama 2197708--4116 \n 👍🏻….",
           "Info": ".   ⬇️SELECIONE A OPERADORA⬇️"
           },
           {
-      "Name": "🟣TIM CLICK",
-      "FLAG": "tim",
-      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "[app_host]",
-      "ProxyPort": "80",
-      "Info": "Proxy"  
-       },
+            "Name": "TIM EXPIRADO 3",
+            "FLAG": "tim",
+            "Payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.240.25",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "Tim [01]",
+            "FLAG": "tim",
+            "Payload": "[rotate=ACL;GET;PATCH;OPTIONS;DELETE] /cdn-cgi/trace HTTP/1.1[lf]Host:[rotate=survey.maisvantagenstim.com.br;quiz.maisvantagenstim.com.br;convencao.maisvantagenstim.com.br;dl.maisvantagenstim.com.br;www.maisvantagenstim.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "162.159.140.159",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },       
         {
             "Name": "TIM ON ",
             "FLAG": "tim",
@@ -114,9 +245,9 @@ Me chama 2197708--4116 \n 👍🏻….",
             "Info": "Proxy"
         },
         {
-      "Name": "TIM  ON 23/03/25",
+      "Name": "TIM 🔥🔥🔥🔥 17/04/25",
       "FLAG": "tim",
-      "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: [rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "[app_host]",
@@ -164,7 +295,7 @@ Me chama 2197708--4116 \n 👍🏻….",
       "Info": "Proxy"
     },
      { 
-      "Name": "TIM SSH 033333",
+      "Name": "TIM SSH 033333 ON ",
       "FLAG": "tim",
       "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -194,6 +325,26 @@ Me chama 2197708--4116 \n 👍🏻….",
             "Info": "Proxy"
         },
         {
+      "Name": "🟣TIM SSH PREMIUM",
+      "FLAG": "tim",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: premium2.sshtproject.com[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"  
+       },
+       {
+      "Name": "🟣TIM RICK PREMIUM",
+      "FLAG": "tim",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: v2.vclaro.com.br[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"  
+       },
+        {
             "Name": "TIM PREMIUM SSH",
             "FLAG": "tim",
             "Payload": "GET /cdn-cgi/trace HTTP/1.9[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: 204.216.151.58[crlf]Upgrade: Websocket[crlf]Connection:rnnnUpgrade[crlf][crlf]",
@@ -204,9 +355,9 @@ Me chama 2197708--4116 \n 👍🏻….",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM PREMIUM 3 ON",
+            "Name": "TIM PREMIUM RICK ON",
             "FLAG": "tim",
-            "Payload": "GET /-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: v2.vclaro.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.5.18",
@@ -244,12 +395,22 @@ Me chama 2197708--4116 \n 👍🏻….",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO/EXPIRADO 1",
+            "Name": "TIM NOVA 1",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: www.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.9[crlf]Host: [crlf][crlf][app_host][crlf]Upgrade: Websocket[crlf][crlf][crlf][crlf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vs.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: vip2.vuk62.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.66.0.157",
+            "ProxyIP": "104.18.5.18",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM VÁLIDO/EXPIRADO RICK1",
+            "FLAG": "tim",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vs.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.9[crlf]Host: [crlf][crlf][app_host][crlf]Upgrade: Websocket[crlf][crlf][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "166.0.196.220",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -571,6 +732,16 @@ Me chama 2197708--4116 \n 👍🏻….",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "186.233.119.213",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM EXPIRADO 3",
+            "FLAG": "tim",
+            "Payload": "PATCH / HTTP/1.1[lf]Host: vip2.vuk62.shop[lf]Upgrade: Websocket websocket[realData][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.240.25#172.64.154.143#104.17.78.107#104.18.6.41#172.64.150.8#104.24.10.16#104.18.37.248#104.2",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
